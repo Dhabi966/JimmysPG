@@ -38,7 +38,7 @@ JavaScript/HTML/CSS
 # Deployed Project
 Github Pages: 
 
-Github Repo:
+Github Repo: https://github.com/Dhabi966/JimmysPG
 # Screenshot
 
 ![image](https://user-images.githubusercontent.com/108851005/182972190-8d7831db-93c0-4d15-8167-cfe7437b22ba.png)
