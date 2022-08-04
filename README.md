@@ -40,4 +40,5 @@ Github Pages:
 
 Github Repo:
 # Screenshot
-image.png
+
+![image](https://user-images.githubusercontent.com/108851005/182972190-8d7831db-93c0-4d15-8167-cfe7437b22ba.png)
