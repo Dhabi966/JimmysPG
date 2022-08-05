@@ -36,7 +36,7 @@ W3schools
 JavaScript/HTML/CSS
 
 # Deployed Project
-Github Pages: 
+Github Pages: https://dhabi966.github.io/JimmysPG/
 
 Github Repo: https://github.com/Dhabi966/JimmysPG
 # Screenshot
