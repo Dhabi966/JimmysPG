@@ -41,4 +41,5 @@ Github Pages: https://dhabi966.github.io/JimmysPG/
 Github Repo: https://github.com/Dhabi966/JimmysPG
 # Screenshot
 
-![image](https://user-images.githubusercontent.com/108851005/182972190-8d7831db-93c0-4d15-8167-cfe7437b22ba.png)
+![image](https://user-images.githubusercontent.com/108851005/182998056-b7caa2c3-5be8-4bd6-b787-2e2596c80394.png)
+
